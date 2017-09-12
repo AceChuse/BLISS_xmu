@@ -1,4 +1,4 @@
-# Brain-like Intelligent Systems(xmu-BLISS)
+# Brain-like Intelligent Systems(BLISS-xmu)
 
 Hi Humans!
 
