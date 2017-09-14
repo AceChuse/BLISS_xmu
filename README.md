@@ -22,11 +22,19 @@ Hi Friends!
 4. 安装必要的python包
 
    1)numpy。这是我们使用python做任何智能程序的基础，安装教程：http://blog.csdn.net/walkandthink/article/details/45200597 （这也是百度的）
-   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html 。如果你使用的是Anaconda
+   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html 。如果你使用的是Anaconda
    上面添加的这个库中添加的 NumPy的详细教程.docx 是一份更为简短的中文教程，如果看英文不习惯的话可以先看一下。
    到这里就可以使用numpy编写一些智能程序了。对完全没接触过的新手在机器学习方面，推荐周志华的机器学习。由于版权问题就不添加pdf了。
    对于使用python实现不同的机器学习或其他的智能算法，百度：python实现... 。 一般都能找到。
    
-   2）gym。这我们用来实验AI的环境。这里gym的官方教程：
+   2）gym。这我们用来实验AI的环境，安装在输入指令 pip install gym就可以了，如果依赖包都有的话--。
+   这里gym的英文详细教程：https://github.com/openai/gym
    简短的教程在这个库中添加的 OpenAI中gym教程.pdf中。
    
+   3）tensorflow。大家都知道进来深度学习带来的热潮，想必也有一定的兴趣。我们在gym中实验深度强化学习，就如字面上意思也会用的深度学习。而tensorflow是一个深度学习的框架，废话我多说，总之tensorflow挺多人使用，公认好用。这个库中添加的tensorflow_manual_cn.pdf是官方教程的翻译教程。
+   tensorflow_manual_cn.pdf中有在Linux中安装的教程，在windows中安装的教程暂时没有。
+   
+5. 深度Q学习
+    论文是这个库中的 Playing Atari with Deep Reinforcement Learning.pdf 和 Human-level control through deep reinforcement learning.pdf 中，其中 Playing Atari with Deep Reinforcement Learning.pdf 是2013年发表的，Human-level control through deep reinforcement learning.pdf 是2015年发表的，是加强版。DQN是深度强化学习的前身，要学习深度强化学习应该则应该先学习DQN。
+    
+ # 如果以上的都学完了，虽然只学习了科研的冰山一角，但是已经可以自行研究强化学习了，开发自己的算法了。一路学到这里幸苦了。
