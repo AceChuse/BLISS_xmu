@@ -22,8 +22,11 @@ Hi Friends!
 4. 安装必要的python包
 
    1)numpy。这是我们使用python做任何智能程序的基础，安装教程：http://blog.csdn.net/walkandthink/article/details/45200597 （这也是百度的）
-   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html ，上面添加的这个库中添加的 NumPy的详细教程.docx 是一份更为简短的中文教程，如果看英文不习惯的话可以先看一下。
+   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html 。如果你使用的是Anaconda
+   上面添加的这个库中添加的 NumPy的详细教程.docx 是一份更为简短的中文教程，如果看英文不习惯的话可以先看一下。
    到这里就可以使用numpy编写一些智能程序了。对完全没接触过的新手在机器学习方面，推荐周志华的机器学习。由于版权问题就不添加pdf了。
    对于使用python实现不同的机器学习或其他的智能算法，百度：python实现... 。 一般都能找到。
    
-   2）gym。这我们用来实验AI的环境
+   2）gym。这我们用来实验AI的环境。这里gym的官方教程：
+   简短的教程在这个库中添加的 OpenAI中gym教程.pdf中。
+   
