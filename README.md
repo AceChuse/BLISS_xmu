@@ -33,6 +33,7 @@ Hi Friends!
    
    3）tensorflow。大家都知道进来深度学习带来的热潮，想必也有一定的兴趣。我们在gym中实验深度强化学习，就如字面上意思也会用的深度学习。而tensorflow是一个深度学习的框架，废话我多说，总之tensorflow挺多人使用，公认好用。这个库中添加的tensorflow_manual_cn.pdf是官方教程的翻译教程。
    tensorflow_manual_cn.pdf中有在Linux中安装的教程，在windows中安装的教程暂时没有。
+   4)opencv
    
 5. 深度Q学习
     论文是这个库中的 Playing Atari with Deep Reinforcement Learning.pdf 和 Human-level control through deep reinforcement learning.pdf 中，其中 Playing Atari with Deep Reinforcement Learning.pdf 是2013年发表的，Human-level control through deep reinforcement learning.pdf 是2015年发表的，是加强版。DQN是深度强化学习的前身，要学习深度强化学习应该则应该先学习DQN。
