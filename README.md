@@ -20,5 +20,6 @@ Hi Friends!
     win中安装eclipse+python的安装和配置教程：http://www.cnblogs.com/Bonker/p/3584707.html （这也只是百度的）
 
 4）安装必要的python包
+
    numpy，这是我们使用python做任何智能程序的基础
-   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html ，
+   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html ，上面添加的这个库中添加的 NumPy的详细教程.docx 是一份更为简短的中文教程，如果看英文不习惯的话可以先看一下。
