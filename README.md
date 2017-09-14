@@ -21,3 +21,4 @@ Hi Friends!
 
 4）安装必要的python包
    numpy，这是我们使用python做任何智能程序的基础
+   numpy的官方教程 https://docs.scipy.org/doc/numpy-dev/user/quickstart.html ，
