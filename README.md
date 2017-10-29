@@ -39,4 +39,3 @@ Hi Friends!
     论文是这个库中的 Playing Atari with Deep Reinforcement Learning.pdf 和 Human-level control through deep reinforcement learning.pdf 中，其中 Playing Atari with Deep Reinforcement Learning.pdf 是2013年发表的，Human-level control through deep reinforcement learning.pdf 是2015年发表的，是加强版。DQN是深度强化学习的前身，要学习深度强化学习应该则应该先学习DQN。
     
  # 如果以上的都学完了，虽然只学习了科研的冰山一角，但是已经可以自行研究强化学习了，开发自己的算法了。一路学到这里幸苦了。
- restore
