@@ -1,5 +1,10 @@
 <center>居中渲染</center>
 
+```python
+import numpy as np
+x = np.zeros((9,))
+```
+
 ### 20180701
 #### PRML P41\~P42 (1.80) (1.81) P63\~P64 1.23 1.24 
 $$\begin{aligned}
