@@ -1,7 +1,7 @@
 <center>居中渲染</center>
 
 ### 20180701
-#### PRML P41~P42 (1.80) (1.81) P63~P64 1.23 1.24 
+#### PRML P41\~P42 (1.80) (1.81) P63\~P64 1.23 1.24 
 $$\begin{aligned}
 \mathrm{E}[L]&=\sum_k\sum_j\int_{R_j}L_{kj}p(\mathcal{C}_k,x)dx\\
 &\color{red}{=\mathrm{E}_x\left[\sum_k\sum_jL_{kj}p(\mathcal{C}_k|x)\right]}(\rm This\ is\ wrong!)
